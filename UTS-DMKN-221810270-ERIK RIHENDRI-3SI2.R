@@ -1,4 +1,4 @@
-data <- read.csv("C:/Users/ACER/Desktop/crx.txt", header=FALSE)
+data <- read.csv("C:/Users/ACER/Desktop/data.txt", header=FALSE)
 
 library(dplyr)
 library(caret)
